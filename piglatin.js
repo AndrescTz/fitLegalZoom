@@ -1,4 +1,4 @@
-function PigLatin(word) {
+function pigLatin(word) {
   const AY = "ay";
   const vowels = ["a", "e", "i", "o", "u"];
   const arrayWord = word.split("")
